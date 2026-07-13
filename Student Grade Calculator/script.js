@@ -7,7 +7,6 @@ function calculateResult() {
 
     let result = document.getElementById("result");
 
-    // Validation
     if (name == "" ||
         document.getElementById("english").value == "" ||
         document.getElementById("maths").value == "" ||
